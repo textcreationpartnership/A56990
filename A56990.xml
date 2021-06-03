@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A remonstrance of the great affayres and matters of consequence betwixt the King and both Houses of Parliament, March 16th, 1641 touching the present estate of these two kingdomes, England and Ireland : with the votes and resolutions of both Houses of Parliament concerning the Kings last message from Huntington, March 17, 1641.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56990</idno><idno type="EEBO-CITATION">9602025</idno>
+  <idno type="VID">43775</idno>
+  <idno type="EEBO-PROQUEST">2248513381</idno>
+  
+            <idno type="STC">Wing R1003</idno>
+            <idno type="STC">ESTC R26980</idno>
+            <idno type="OCLC">09602025</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A56990)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43775)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1339:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A remonstrance of the great affayres and matters of consequence betwixt the King and both Houses of Parliament, March 16th, 1641 touching the present estate of these two kingdomes, England and Ireland : with the votes and resolutions of both Houses of Parliament concerning the Kings last message from Huntington, March 17, 1641.</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>[7] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Thomas,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649.</term>
+               <term type="corporate_name">England and Wales. --  Parliament.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43775:1"/>
+            <pb facs="tcp:43775:1"/>
+            <p>A REMONSTRANCE Of the great Affayres and Matters of Consequence betwixt the King and both Houses of PARLIAMENT.</p>
+            <p>
+               <hi>March,</hi> 16th. 1641.</p>
+            <p>Touching the present E<g ref="char:EOLhyphen"/>state of these two Kingdomes, <hi>En<g ref="char:EOLhyphen"/>gland</hi> and <hi>Jreland.</hi>
+            </p>
+            <p>With the Votes and Resolutions of both Houses of Parliament, Concerning the Kings last Message from <hi>Huntington, March</hi> 17. 1641.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>John Thomas,</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:43775:2"/>
+            <head>HUNTINGTON, 15. <hi>Martii,</hi> 1641. ¶ His Majesties Message to both Houses of Parliament, upon His Removall to the City of YORKE.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Is Majesty being now in his Remove to his City of <hi>Yorke,</hi> where he intends to make his Residence for some time, thinks fit to send this Message to both Houses of Par<g ref="char:EOLhyphen"/>liament;</p>
+            <p>That he doth very earnestly desire, that they will use all possible industry, in ex<g ref="char:EOLhyphen"/>pediting the businesse of <hi>Ireland</hi> in which they shall find so cheerfull a Concurrance by his Majesty, that no inconveni<g ref="char:EOLhyphen"/>ence shall happen to that Service by his absence, he having all that passion for the reducing of that Kingdome, which he hath expressed in his former Messages, and being unable by words to manifest more affection to it then he hath endeavoured to doe by those Messages (having likewise done all such Acts as he hath been moved unto by his Parliament) therefore, if the misfortunes and Calamities of his poore protestant Subjects there shall grow upon them (though his Majesty shall bee deeply concerned in, and sensible of their sufferings) He shall wash his hands before all the World, from the least imputa<g ref="char:EOLhyphen"/>tion of slacknesse in that most necessary and pious Worke.</p>
+            <p>And that his Majesty may leave no way unattempted, which may beget a good understanding between him and his Parlia<g ref="char:EOLhyphen"/>ment; He thinkes it necessary to declare, That as hee hath been so tender of the Priviledges of Parliament, that he hath been ready and forward to retract any Act of his own, which
+<pb facs="tcp:43775:2"/> he hath been informed hath Trencht upon their Priviledges, so he expects an equall tendernesse in them of his Majesties knowne and unquestionable Priviledges (which are the Pri<g ref="char:EOLhyphen"/>viledges of the Kingdome) amongst which he is assured it is a fundamentall One. That his Subjects cannot be Obliged to Obey any Act, Order, or Jnjunction, to which his Majesty hath not given his consent: And therefore he thinks it neces<g ref="char:EOLhyphen"/>sary to publish, that he expects, and hereby Requires Obedi<g ref="char:EOLhyphen"/>ence from all his loving Subjects to the Lawes established, and that they presume not upon any pretence of Order, or Or<g ref="char:EOLhyphen"/>dinance (to which his Majesty is no party) concerning the <hi>Militia,</hi> or any other thing, to doe ot execute what is not warranted by those Lawes, his Majesty being resolved to keep the Lawes himselfe, and to require Obedience to them from all his Subjects.</p>
+            <p>And his Majesty once more recommends to his Parliament the substance of his Message of the 20th. of <hi>Ian.</hi> last, that they compose and digest, with all speed, such Acts, as they shall thinke fit, for the present and future establishment of their Priviledges; The free and quiet enjoying their Estates and Fortunes; The Liberties of their Persons; The security of the true Religion now professed in the Church of <hi>England,</hi> The maintaining his Majesties Regall and just Authority, and s<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ling his Revenue; His Majesty being most desirous to take all sitting and just wayes which may beget a happy understan<g ref="char:EOLhyphen"/>ding between him and his Parliament, in which he conceives his greatest power and riches doth consist.</p>
+            <div type="response">
+               <head>May it please your Majestie.</head>
+               <p>YOur Majesties most humble and faithfull Subjects, the Knights, Citizens, and Burgesses of the Com<g ref="char:EOLhyphen"/>mons House of Parliament, having considered your Majesties Reply to their Answer, touching such persons as have been licenced by your Majesty to passe into <hi>Ireland,</hi> doe most humbly beseech your Majesty to believe, that they shall alwayes with thankefulnesse and Ioy receive from your Majesty any satisfactory Answer to th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ir just re<g ref="char:EOLhyphen"/>quests:
+<pb facs="tcp:43775:3"/> And, as they hope thny shall find in your Majesty a readinesse to rectifie these things, which have beene done to their prejudice, so will they bee carefull to remove all appre<g ref="char:EOLhyphen"/>hensions of their Actions or Speeches, which may seeme to cast any dishonour upon your Majesty.</p>
+               <p>For your Majesties better satisfaction concerning the possitive affirmation, that many of the chiefe Commanders now in the head of the Rebels (after the Ports were stopped by order of both houses) have been suffered to passe by your Majesties im<g ref="char:EOLhyphen"/>mediate Warrante May it please your Majesty to consider that herein they have affirmed nothing but what they had cause to believe was true, the grounds whereof they humbly present to your Majesty.</p>
+               <p>The first ground is this, that both Houses of Parliament, (having upon your Majesties commendation taken into their care the suppression of the Rebellion of <hi>Jreland</hi>) had reason to be especially watchfull over the Ports, because the Rebels abounding in numbers of men for the most part ignorant of their Armes could by no meanes become dangerous or for<g ref="char:EOLhyphen"/>midable to this Kingdome. but by the accesse of Soldiers and Commanders, wherewith they were like to be furnished ei<g ref="char:EOLhyphen"/>ther out of <hi>France</hi> or <hi>Flanders,</hi> from both which places the passage into <hi>Ireland</hi> is speedy and easie through this King<g ref="char:EOLhyphen"/>dome, and thereof they could not chuse but be very sensible of whatsoever gave liberty or opportunity to such a passage, as of a very hurtfull and dangerous grievance, for prevention whereof they did upon the seventh of <hi>November</hi> agree upon an Order and restraine all passage into <hi>Ireland,</hi> but upon due strict examination by such persons as were trusted to make those Licences.</p>
+               <p>A second ground that the other Licence granted to the Lord <hi>Delvin,</hi> and then acknowledged by your Majesties Answer were such (both in regard of the persons, to whom they were granted,) as were apt to produce such an effect as is mentio<g ref="char:EOLhyphen"/>ned in that positive Affirmation that is, to open a way for the passage of Papists and other dangerous persons to joyne with the Rebels, and to bee Heads and Commanders amongst them, which is thus proved.</p>
+               <pb facs="tcp:43775:3"/>
+               <p>The Warrant granted to Colonell <hi>Butler,</hi> (since the order of Restraine by both Houses of Parliament) did extend to all Ports of <hi>England</hi> and <hi>Scotland,</hi> and did give free passage to himselfe and to his Company, without any qualification of person, or Limitation of Number, and this Colonell was himselfe a Papist, had a Brother in Rebellion, and Generall of the Rebels in <hi>Munster,</hi> was expected, and very much de<g ref="char:EOLhyphen"/>sired by those Rebels, who for a long time had kept a Reg<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ment to be commanded by him; as we have beene credibly informed.</p>
+               <p>The second was granted to a Sonne of the Lord <hi>Nettersfield,</hi> which Lord had foure Sonnes in <hi>England</hi> since the Rebellion, one of which is setled in <hi>England,</hi> three others intended co passe into <hi>Ireland,</hi> and were all dangerous persons being Pa<g ref="char:EOLhyphen"/>pists, bred in the Wars, in the service of the King of <hi>Spaine,</hi> and one of them lately become a Iesuit.</p>
+               <p>The third to the Lord <hi>Delvin</hi> extends to himselfe and some persons more unnamed, that one of those who should have past with him is taken to be a Jesuit, and another calls him<g ref="char:EOLhyphen"/>selfe <hi>Ploneket,</hi> seems to be a man of some breeding and qua<g ref="char:EOLhyphen"/>lity, and like to have beene serviceable to the Rebels, and to have done mischiefe, if he had gone over.</p>
+               <p>The fourth to Sir <hi>George Hamilton,</hi> and three more unnam<g ref="char:EOLhyphen"/>ed; This Gentleman is likewise a profest Papist, and may be doubted to be of the partie of the Rebels, one of that name being mentioned in the instructions of <hi>Sempill</hi> the Jesuit, a<g ref="char:EOLhyphen"/>mongst divers other dangerous persons of the popish party in Scotland and Ireland, which instructions were found in a Ship staeyd in <hi>Cornwall,</hi> which was going into <hi>Ireland</hi> with divers Iesuits, Soldiers, and others for the incouragement of the Rebels.</p>
+               <p>A third ground is this, that by vertue and Authority of of these Licences severall persons have passed over, which now are in Actuall Rebellion, and have command amongst the Re<g ref="char:EOLunhyphen"/>bels, which is thus proved.</p>
+               <p>One Captaine <hi>Sutton,</hi> did by vertue of your Majesties Li<g ref="char:EOLhyphen"/>cence and Authority imbarque at <hi>White-Haven</hi> from whence he passed into Jreland, where he went into Rebellion with
+<pb facs="tcp:43775:4"/> the Lord <hi>Dunsany,</hi> and hath since obtained the place of a Co<g ref="char:EOLhyphen"/>lonell amongst the Rebels, as we are credibly informed.</p>
+               <p>Two of the Sonnes of the Lord <hi>Netterfield,</hi> one a Jesuite, and the other a Soldier, passed into Ireland in December last, both of them by vertue of your Majesties Warrant, as we have cause to beleeve, for that they went both together in one Ship, and the Licence acknowledged to be granted by your Warrant must needs be granted to one of them, seeing the other Brother who lately endeavoured to passe over, did produce no Licence, and upon his Examination doth abso<g ref="char:EOLhyphen"/>lutely deny that he had any.</p>
+               <p>A fourth ground (which we humbly offer to your Majesty) is this, that your Majesty cannot be assured that no other did passe upon young Licence as your Majesty doth conceive, and are pleased to expresse in your Answer, and that we had great cause to beleeve that divers other had passed over by your Warrant, besides the persons afore-mentioned, and that for these Reasons.</p>
+               <p n="1">1. Because we received such a generall Information, that di<g ref="char:EOLhyphen"/>vers now in the Head of the Rebels were passed by your Ma<g ref="char:EOLhyphen"/>jesties Licence, which being true in part and easie to be effec<g ref="char:EOLhyphen"/>ted, in regard of the Nature and extent of the Warrants and probable to be attempted, in regard of the subtilty and vigi<g ref="char:EOLhyphen"/>lancie of that party, to make use of all advantages, seemed to deserve credit, which we should not have given to it, if it had beene a naked information without such circumstances.</p>
+               <p n="2">2. Because wee had concurring Advertisements from <hi>Jre<g ref="char:EOLhyphen"/>land</hi> and <hi>Chester,</hi> that divers Priests, Iesuits, and Popish Com<g ref="char:EOLhyphen"/>manders had passed over, and were landed there and parti<g ref="char:EOLhyphen"/>cularly some of Colonell <hi>Butlers</hi> Company, and that the Of<g ref="char:EOLhyphen"/>ficers of the Ports had kept no Entrie of the names of these p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rsons, or of the Warran<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s by which they were transported.</p>
+               <p>These we hope will be sufficient to perswade your Majesty to belee<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, that as we had some cause to give credit to the said Jnformations, so we had no intention to make any ill use of them to your Majesties dishonour, but did impute the blame to your Ministers, who might have beene more care<g ref="char:EOLhyphen"/>full to have informed y<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r Majestie of the Quality o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> those
+<pb facs="tcp:43775:4"/> persons named in your Licences, and so to have limited them that they might not have extended to others, as they did, how many and dangerous soever.</p>
+               <p>And they pray your Majesty to rest assured, that they shall alwayes be tender of your Honour and reputation with your good Subjects, and for this cause have made this true Declara<g ref="char:EOLhyphen"/>tion of the full State of this matter, that they may thinke no otherwise of it then the truth, and in all things shall labour to establish a good understanding and confidence, betwixt your Majesty, and your people, which they heartily desire, and pray for, as the chiefest meanes of preserving the Honor, safety, and prosperity of your Majesty, and your Kingdome.</p>
+            </div>
+            <div type="part">
+               <head>Severall Votes Resolved upon, by both Houses of <hi>PARLIAMENT.</hi>
+               </head>
+               <div type="resolution">
+                  <head>Resolved vpon the Quest, by the Lords in Parliament, <hi>nemine Contradicente.</hi>
+                  </head>
+                  <p>THat the Ordinance of the Lords and Commons in Par<g ref="char:EOLhyphen"/>liament, for the safety and defence of the Kingdome of <hi>England,</hi> and Dominion of <hi>Wales,</hi> is not any way against the Oath of Allegiance.</p>
+               </div>
+               <div type="resolution">
+                  <head>Resolved vpon the Question.</head>
+                  <p>That the severall Commissions, granted vnder the Great Seale, to the Lievtenants of the severall Counties, are illegall and Voyd.</p>
+               </div>
+               <div type="resolution">
+                  <head>Resolved vpon the Question.</head>
+                  <p>That whosoever shall execute any Power over the <hi>Mili<g ref="char:EOLhyphen"/>tia</hi> of this Kingdome, and Dominion of Wales, by colour of any Commission of Lievtenancy, without consent of both Houses of <hi>Parliament,</hi> shall be accounted a disturber of the peace of the Kingdome.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>Die M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rtis, <hi>15.</hi> Martij. <hi>1641.</hi>
+               </head>
+               <div type="resolution">
+                  <head>Resolved upon the Question by the Lords and Commons in Parliament.</head>
+                  <p>THat the Kingdome ha<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>een of late, and still is in so evi<g ref="char:EOLhyphen"/>dent and emminent danger, both from our Enemies a<g ref="char:EOLhyphen"/>broad,
+<pb facs="tcp:43775:5"/> and a Popish and discontented party at home; That there is an urgent and inevitable necessity of putting his Ma<g ref="char:EOLhyphen"/>jesties Subjects into a posture of defence, for the safeguard both of his Majesty and his people.</p>
+               </div>
+               <div type="resolution">
+                  <head>Resolved upon the Question.</head>
+                  <p>That such Persons as shall be nominated Deputy-Lievte<g ref="char:EOLhyphen"/>nants, and approved of by both Houses, shall receive the Commands of both Houses, to take upon them to Execute their Offices.</p>
+               </div>
+            </div>
+            <div type="part">
+               <head>The Votes and Resolut<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o s of both Houses of Par<g ref="char:EOLhyphen"/>liament, concerning the Kings last Message, sent from <hi>Huntington,</hi> on Wednesday, <hi>March,</hi> 16 1641.</head>
+               <div type="resolution">
+                  <head>Resolved upon the Question.</head>
+                  <p>THat this House shall insist upon their former Votes con<g ref="char:EOLhyphen"/>cerning the <hi>Militia.</hi>
+                  </p>
+               </div>
+               <div type="resolution">
+                  <head>Resolved upon the Question.</head>
+                  <p>That the Kings absence so farre remote from his Parliament is not onely an obstruction, but may be a destruction to the affayres of Ireland.</p>
+               </div>
+               <div type="resolution">
+                  <head>Resolved upon, &amp;c.</head>
+                  <p>That when the Lords and Commons in Parliament which is the supreame Court of Judicature in the Kingdome, shall declare what the Lawes of the Land is, to have this not one<g ref="char:EOLhyphen"/>ly questioned and controverted, but contradicted and a com<g ref="char:EOLhyphen"/>mand that it should not be obeyed is a high breach of the priviledge of Parliament.</p>
+               </div>
+               <div type="resolution">
+                  <head>Resolved, &amp;c.</head>
+                  <p>That a Committee shall be appointed by this House to joyne with a Committee of the Lords, to inquire where this Message was framed.</p>
+               </div>
+               <div type="resolution">
+                  <head>Resolved &amp;c.</head>
+                  <p>That those persons that advise his Majesty to absent himselfe from the Parliament are Enemies to the peace of this King<g ref="char:EOLhyphen"/>dome, and justly to be suspected to be favourers of the Re<g ref="char:EOLhyphen"/>bellion in <hi>IRELAND.</hi>
+                  </p>
+               </div>
+               <div type="resolution">
+                  <head>Resolved &amp;c.</head>
+                  <p>That those that advised his Maj<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ty to this Message are ene<g ref="char:EOLhyphen"/>mies to the peace of this Kingdome, and justly to be suspect<g ref="char:EOLhyphen"/>ed to be favourers of the Rebellion in <hi>JRELAND.</hi>
+                  </p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:43775:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
